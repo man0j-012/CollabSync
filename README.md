@@ -1,4 +1,4 @@
-# Collaborative Sync: Real‑Time Collaborative Editor 🚀
+# Collaborative Sync: Real‑Time Collaborative Editor 
 
 ![Built With](https://img.shields.io/badge/Built%20with-React,%20TipTap,%20Node.js,%20Yjs-blue)
 ![Deployment](https://img.shields.io/badge/Deployed%20on-AWS-green)
@@ -122,5 +122,5 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ---
 
-> Crafted with ❤️ by Your Name | GitHub: [@yourusername](https://github.com/yourusername) | LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+> Crafted by Manoj Myneni | GitHub: [@yourusername](https://github.com/man0j-012) | LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 

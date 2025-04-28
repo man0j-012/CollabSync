@@ -32,7 +32,9 @@ Refer to the **Figures/** directory for detailed diagrams:
 - `Figures/docker-deploy.png`: Docker Compose & AWS ECS layout
 
 <p align="center">
-  <img src="Figures/architecture.png" alt="Architecture Diagram" width="80%" />
+  <img src="Figures/3.png" alt="Snapshot " width="80%" />
+  <img src="Figures/4.png" alt="Snapshot 2 " width="80%" />
+
 </p>
 
 ---
@@ -122,5 +124,5 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ---
 
-> Crafted by Manoj Myneni | GitHub: [@yourusername](https://github.com/man0j-012) | LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+> Crafted by Manoj Myneni | GitHub: [@yourusername](https://github.com/man0j-012) | LinkedIn: [Your Profile](https://www.linkedin.com/in/manoj1205/)
 

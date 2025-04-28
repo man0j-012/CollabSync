@@ -1,0 +1,49 @@
+{
+  "name": "collaborative-editor-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@mui/icons-material": "^5.0.0",
+    "@mui/material": "^5.0.0",
+    "@tiptap/extension-bold": "^2.0.0",
+    "@tiptap/extension-collaboration": "^2.0.0",
+    "@tiptap/extension-collaboration-cursor": "^2.0.0",
+    "@tiptap/extension-color": "^2.0.0",
+    "@tiptap/extension-document": "^2.0.0",
+    "@tiptap/extension-image": "^2.0.0",
+    "@tiptap/extension-paragraph": "^2.0.0",
+    "@tiptap/extension-text": "^2.0.0",
+    "@tiptap/extension-text-align": "^2.0.0",
+    "@tiptap/extension-text-style": "^2.0.0",
+    "@tiptap/extension-underline": "^2.11.7",
+    "@tiptap/react": "^2.0.0",
+    "date-fns": "^4.1.0",
+    "firebase": "^9.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "react-scripts": "^5.0.1",
+    "y-indexeddb": "^9.0.12",
+    "y-websocket": "^1.4.5",
+    "yjs": "^13.5.17",
+    "zustand": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

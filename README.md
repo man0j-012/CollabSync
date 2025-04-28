@@ -124,5 +124,5 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ---
 
-> Crafted by Manoj Myneni | GitHub: [@yourusername](https://github.com/man0j-012) | LinkedIn: [Your Profile](https://www.linkedin.com/in/manoj1205/)
+> Crafted by Manoj Myneni | GitHub: [@https://github.com/man0j-012](https://github.com/man0j-012) | LinkedIn: [https://www.linkedin.com/in/manoj1205/](https://www.linkedin.com/in/manoj1205/)
 

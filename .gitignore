@@ -1,0 +1,15 @@
+# Secrets and environment files
+.env
+backend/serviceAccountKey.json
+
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Runtime data
+yjs-data/
+
+# OS / Editor junk
+.DS_Store
+.vscode/
+*.log
